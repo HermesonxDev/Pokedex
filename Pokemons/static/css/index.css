@@ -1,0 +1,67 @@
+body{
+    
+    background-image: url(https://i.pinimg.com/736x/8f/c6/1c/8fc61c54913cb208d882db5fd71ff0e2.jpg);
+    background-size: cover;
+}
+
+.painel{
+    background-color: red;
+    border: 10px solid rgb(190, 12, 12);
+    height: 560px;
+    width: 400px;
+    border-radius: 10px;
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    margin: auto;
+    margin-top: 30px;
+    box-shadow: 3px 3px 15px black;
+}
+
+#tela{
+    margin: auto;
+    width: 300px;
+    height: 330px;
+    margin-bottom: 10px;
+    background-color: #59429d;
+    /* background-image: url(https://i.pinimg.com/736x/d6/7c/3c/d67c3cbce4d7e9355e8522e10434d76c.jpg); */
+    background-size: cover;
+    border-radius: 10px;
+}
+
+#entrada{
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+button{
+    font-size: 18px;
+    height: 35px;
+    margin: 7px;
+    background-color: red;
+    color: white;
+    border: 3px solid rgb(190, 12, 12);
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px black;
+}
+
+button:hover{
+    background-color: green;
+    transform: scale(1.20);
+}
+
+.pokemonBack{
+    width: 135px;
+    height: 135px;
+}
+
+.pokemonFront{
+    width: 115px;
+    height: 115px;
+}
+
+.errorMessage{
+    text-align: center;
+    font-size: 40px;
+}
