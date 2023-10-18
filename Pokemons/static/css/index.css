@@ -1,13 +1,15 @@
 body{
-    
-    background-image: url(https://i.pinimg.com/736x/8f/c6/1c/8fc61c54913cb208d882db5fd71ff0e2.jpg);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(https://imgs.search.brave.com/FsOnNPPdz6FCuOCIaQ6_zX-q_fgRhAfM1wwgFqjUUYA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/ZDlzcHV3ZXIyYzQ5/MS5wbmc_d2lkdGg9/MTA1MCZmb3JtYXQ9/cG5nJmF1dG89d2Vi/cCZzPTljYThjNzVj/NjNkYTlmOGJiMTM0/ZTk1NWQ3M2UyNzcw/ZDA3MzM3NWU);
     background-size: cover;
 }
 
 .painel{
     background-color: red;
     border: 10px solid rgb(190, 12, 12);
-    height: 560px;
+    height: 600px;
     width: 400px;
     border-radius: 10px;
     padding-top: 10px;
@@ -23,8 +25,8 @@ body{
     width: 300px;
     height: 330px;
     margin-bottom: 10px;
-    background-color: #59429d;
-    /* background-image: url(https://i.pinimg.com/736x/d6/7c/3c/d67c3cbce4d7e9355e8522e10434d76c.jpg); */
+    /* background-color: #59429d; */
+    background-image: url(https://imgs.search.brave.com/FsOnNPPdz6FCuOCIaQ6_zX-q_fgRhAfM1wwgFqjUUYA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/ZDlzcHV3ZXIyYzQ5/MS5wbmc_d2lkdGg9/MTA1MCZmb3JtYXQ9/cG5nJmF1dG89d2Vi/cCZzPTljYThjNzVj/NjNkYTlmOGJiMTM0/ZTk1NWQ3M2UyNzcw/ZDA3MzM3NWU);
     background-size: cover;
     border-radius: 10px;
 }
@@ -52,8 +54,8 @@ button:hover{
 }
 
 .pokemonBack{
-    width: 135px;
-    height: 135px;
+    width: 145px;
+    height: 145px;
 }
 
 .pokemonFront{
